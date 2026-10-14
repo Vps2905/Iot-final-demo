@@ -1,0 +1,12 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.env
+secrets.h
+*.sqlite
+*.sqlite3
+portfolio_projects/robottrace/sample_data/
+portfolio_projects/robottrace/output/
+portfolio_projects/traffic_vision/output/
